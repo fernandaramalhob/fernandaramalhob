@@ -44,9 +44,9 @@
 
 ---
 
-## 🌍 Onde me encontrar:
+## 🌍 Entre em contato:
 <p align="center">
-  <a href="[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/fernandaramalhob/)" target="_blank">
+  <a href="https://www.linkedin.com/in/fernandaramalhob/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seuemail@gmail.com">
@@ -59,9 +59,3 @@
 
 ---
 
-### 🎵 O que estou ouvindo agora:
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=seu-usuario&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
-
----
-
-**✨ Sempre aprendendo algo novo! 🚀**
