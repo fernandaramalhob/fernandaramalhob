@@ -1,5 +1,8 @@
 <h1 align="center">Olá! Meu chamo Fernanda Ramalho. </h1>
 <h3>Tenho 18 anos, e sou aluna de Sistemas de Informações!</h3>
+<p>Atualmente estou no 3º período de Sistemas de Informação na CESAR School, com experiência em desenvolvimento de sistemas utilizando Python, C, C++ e Java, além de participação em projetos com foco em gestão e organização. Tenho interesse em aplicar e expandir meus conhecimentos técnicos em ambientes colaborativos, onde também possa exercitar minhas soft skills, como comunicação, proatividade e trabalho em equipe.
+
+Busco uma oportunidade de estágio na área de Tecnologia da Informação que me permita crescer profissionalmente, contribuindo com soluções criativas, responsabilidade e dedicação constante ao aprendizado.</p>
 
 <p>
 <i>"Se, com a tua boca, confessares Jesus como Senhor e, em teu coração, creres que Deus o ressuscitou dentre os mortos, serás salvo."</i>
